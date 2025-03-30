@@ -36,13 +36,10 @@ Here is an overview of the files and directories in this repository:
 
 ## Summary of Results
 The analysis revealed the following key insights:
-1. **Property Prices**: Certain features, such as number of unique amenities, number of bedrooms and number accommodated, significantly influence property prices.
-2. **Price Trends**: Listed prices were significantly higher in summer months, whilst winter months showed the lowest average listed prices.
-3. **Review Patterns**: Properties with higher review scores tend to have higher occupancy rates.
+1. **Property Types**: Some property types, such as boats and condominiums had significantly higher average listed prices. Dorms and treehouses had the lowest.
+2. **Property Prices**: Certain features, such as number of unique amenities, number of bedrooms and number accommodated, significantly influence property prices.
+3. **Price Trends**: Listed prices were significantly higher in summer months, whilst winter months showed the lowest average listed prices.
 4. **Statistical Tests**: Significant differences were found between groups using t-tests, with corrections applied for multiple comparisons.
 
 ## Acknowledgements
-This project utilized publicly available Airbnb data. Special thanks to the Airbnb team for providing the datasets and to the open-source community for the libraries used in this analysis.
-
----
-Feel free to explore the repository and reach out with any questions or suggestions!
+This project utilized publicly available Airbnb data. Special thanks to the Airbnb team for providing the datasets and to the open-source community for the libraries used in this analysis. Thank you also to the Udacity Data Sciene nanodegree for machine learning code.
