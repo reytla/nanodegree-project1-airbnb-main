@@ -3,6 +3,8 @@
 ## Motivation
 This project aims to analyze Airbnb data to uncover insights about listed Seattle Airbnb property prices. It covers property prices as a whole, as well as distinguishing by property type and month. The analysis includes statistical tests, data visualization, and machine learning techniques to understand trends and patterns in the dataset.
 
+A Blog post detailing output from the analysis may be found at: https://medium.com/@gvdnest/04de388374de
+
 ## Libraries Used
 The following Python libraries were used in this project:
 - `pandas`: For data manipulation and analysis.
